@@ -1,0 +1,1 @@
+wscript.exe C:\Users\chdu\Desktop\Portal\Other\system_monitor\invis.vbs C:\Users\chdu\Desktop\Portal\Other\system_monitor\load_data_auto.bat
